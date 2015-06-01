@@ -2,9 +2,9 @@
   "name": "ngconf-typescript",
   "version": "0.1.0",
   "description": "AngularJS and TypeScript",
-  "homepage": "https://github.com/andrewconnell/ngconf-typescript",
+  "homepage": "",
   "authors": [
-    "Dan Wahlin <dwahlin@wahlinconsulting.com>"
+    "Arjay Elbore <yajra.b.eroble@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [

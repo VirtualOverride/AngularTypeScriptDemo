@@ -1,5 +1,4 @@
 node_modules
-/js
-/src/bower_packages
+src/js
+src/bower_packages
 .DS_Store
-/tools/typings
